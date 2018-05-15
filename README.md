@@ -27,5 +27,8 @@
  <li>Name: vue-component-template</li>
  <li>Version: 1.0.0</li>
  <li>Last updated: 16.05.2018</li>
- <li>Author: Tamer Altintop/github.com/1istbesser</li>
 </ul>
+
+## License
+
+MIT © [Tamer Altintop](https://github.com/1istbesser)
