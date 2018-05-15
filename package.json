@@ -1,7 +1,7 @@
 {
   "name": "vue-template",
   "main": "./lib/vue-component-template",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Create easily vue components with boilerplate template. Usage: In a new file write: vue-template and press CTRL + ALT + O.",
   "keywords": [
     "VUE",
