@@ -1,8 +1,8 @@
 # Atom package: vue-component-template
 <p>A lightweight atom package which makes it easy to create vue components.</p>
-<h1>Usage</h1>
+# Usage
 <p> Type vue-template and hit <b>ctrl + alt + o</b> or <b>cmd + alt + o</b> on MAC.</p>
-<h1>Vue template</h1>
+# Vue template
 
 ```
 <template lang="html">
@@ -22,13 +22,13 @@
 <style lang="css">
 </style>
 ```
-<h1>Package information</h1>
+# Package information
 <ul>
  <li>Name: vue-component-template</li>
  <li>Version: 1.0.0</li>
  <li>Last updated: 16.05.2018</li>
 </ul>
 
-## License
+# License
 
 MIT © [Tamer Altintop](https://github.com/1istbesser)
