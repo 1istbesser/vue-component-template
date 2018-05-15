@@ -5,6 +5,7 @@
 <p> Type vue-template and hit <b>ctrl + alt + o</b> or <b>cmd + alt + o</b> on MAC.</p>
 # Vue template:
 <hr/>
+```html
 <template lang="html">
   <div class="component-wrapper">
     <p>I'm a new vue component.</p>
@@ -21,3 +22,4 @@
 
 <style lang="css">
 </style>
+'''
