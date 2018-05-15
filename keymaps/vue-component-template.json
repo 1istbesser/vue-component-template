@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "vue-component-template:create",
+    "cmd-alt-o": "vue-component-template:create"
+  }
+}
