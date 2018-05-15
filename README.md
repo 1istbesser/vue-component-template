@@ -1,8 +1,3 @@
-<style>
-li{
-  list-style-type:none;
-  }
-</style>
 # Atom package: vue-component-template
 <p>A lightweight atom package which makes it easy to create vue components.</p>
 <h1>Usage</h1>
