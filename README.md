@@ -1,3 +1,8 @@
+<style>
+li{
+  list-style-type:none;
+  }
+</style>
 # Atom package: vue-component-template
 <p>A lightweight atom package which makes it easy to create vue components.</p>
 <h1>Usage</h1>
@@ -24,8 +29,8 @@
 ```
 <h1>Package information</h1>
 <ul>
- <li>Name:vue-component-template</li>
+ <li>Name: vue-component-template</li>
  <li>Version: 1.0.0</li>
  <li>Last updated: 16.05.2018</li>
- <li>Author: Tamer Altintop</li>
+ <li>Author: Tamer Altintop/github.com/1istbesser</li>
 </ul>
