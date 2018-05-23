@@ -2,14 +2,17 @@
   "name": "vue-template",
   "main": "./lib/vue-component-template",
   "version": "0.4.0",
-  "description": "Create easily vue components with boilerplate template. Usage: In a new file write: vue-template and press CTRL + ALT + O.",
+  "description": "Create easily vue components with boilerplate template and HTML5 structured pages. Usage: Type vue-template and hit tab or CTRL + ALT + o. If you wish to create a new file with the vue template, hit CTRL+ALT+V. Type html5-template and hit tab for boilerplate HTML5 page.",
   "keywords": [
     "VUE",
     "Component",
     "Boilerplate",
-    "template"
+    "template",
+    "snippet",
+    "html5",
+    "html5-template"
   ],
-  "atom-workspace": "vue-component-template:create",
+  "atom-workspace": "vue-template:autoCompleteTemplate",
   "repository": "https://github.com/1istbesser/vue-component-template",
   "license": "MIT",
   "engines": {

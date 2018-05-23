@@ -1,6 +1,10 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "vue-component-template:create",
-    "cmd-alt-o": "vue-component-template:create"
+    "ctrl-alt-o": "vue-template:autoCompleteTemplate",
+    "cmd-alt-o": "vue-template:autoCompleteTemplate",
+    "ctrl-alt-v": "vue-template:createNewComponent",
+    "cmd-alt-v": "vue-template:createNewComponent",
+    "ctrl-alt-0": "vue-template:disable",
+    "cmd-alt-0": "vue-template:disable"
   }
 }
