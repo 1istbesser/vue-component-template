@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle vue-component-template",
-        "command": "vue-component-template:toggle"
+        "label": "Disable vue-template",
+        "command": "vue-template:disable"
       }
     ]
   },
@@ -12,11 +12,19 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "vue-component-template",
+          "label": "vue-template",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "vue-component-template:toggle"
+              "label": "Create new vue file",
+              "command": "vue-template:createNewComponent"
+            },
+            {
+              "label": "Autocomplete vue template",
+              "command": "vue-template:autoCompleteTemplate"
+            },
+            {
+              "label": "Disable",
+              "command": "vue-template:disable"
             }
           ]
         }
