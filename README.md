@@ -6,6 +6,7 @@
 <p> If you wish to create a new file with the vue template, hit <b>CTRL + ALT + V</b></p>
 <p> For HTML5 structured template, type html5-template and hit <b>Tab</b></p>
 <p> If you want to deactivate the package, hit <b>CTRL+ALT+0</b></p>
+
 # Vue template
 
 ```
