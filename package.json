@@ -1,7 +1,7 @@
 {
   "name": "vue-template",
   "main": "./lib/vue-component-template",
-  "version": "0.5.1",
+  "version": "0.5.0",
   "description": "Create easily vue components with boilerplate template and HTML5 structured pages. Usage: Type vue-template and hit tab or CTRL + ALT + o. If you wish to create a new file with the vue template, hit CTRL+ALT+V. Type html5-template and hit tab for boilerplate HTML5 page.",
   "keywords": [
     "VUE",
@@ -13,10 +13,16 @@
     "html5-template"
   ],
   "atom-workspace": "vue-template:autoCompleteTemplate",
-  "repository": "https://github.com/1istbesser/vue-component-template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1istbesser/vue-component-template.git"
+  },
+  "bugs": {
+    "url": "hhttps://github.com/1istbesser/vue-component-template/issues"
+  },
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+     "atom": "*"
   },
   "dependencies": {}
 }
